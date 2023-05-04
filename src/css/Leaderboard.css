@@ -1,0 +1,2 @@
+select#plaformlist option[value="ABCD"]   { background-image:url(img/abcd.png);   }
+select#plaformlist option[value="CHID"] { background-image:url(img/CHID.png); }

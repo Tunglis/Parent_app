@@ -1,0 +1,22 @@
+body {
+
+    background-color:#eff0f1;
+   } 
+  
+
+
+.btn:active {
+
+  
+  transform: translateY(12px);
+}
+
+
+#footer{
+    background-color: #087f83;
+}
+
+#header{
+    background-color: #39989b;
+}
+

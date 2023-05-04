@@ -1,0 +1,36 @@
+/* body */
+body {
+    /* background-image: url("img/bg02.jpg");
+    background-position:  center;
+    background-size: auto ;
+    background-repeat: no-repeat;
+    */
+    background-color:#eff0f1;
+    } 
+
+
+/* RecordBtn */
+#BtnVipRecord{
+    text-align:right;
+}
+
+/* infoModal */
+#infoModal{
+    height:50%;
+    width:100%;
+}
+
+#BtnClose{
+    text-align:right;
+}
+
+
+/* Item Table */
+#itemtable{
+    width:100%;
+}
+
+   
+th.no, tr.no {
+    border: 1px solid;
+    }
